@@ -1,3 +1,3 @@
 # 自己紹介
-[職務経歴書](./Curriculum-Vitae.md)
+- [職務経歴書](./curriculum-vitae.md)
 # Articles
