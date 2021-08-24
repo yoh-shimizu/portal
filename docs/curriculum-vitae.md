@@ -26,75 +26,63 @@
 
 ## Skills
 
-<details><summary>言語</summary><div>
+- 言語
+  - Python
+  - Ruby
+  - Go
+  - JavaScript / Node.js
+  - shell script
+  - MySQL
 
-- Python
-- Ruby
-- Go
-- JavaScript / Node.js
-- shell script
-- MySQL
+- フレームワーク/ライブラリ/モジュール
+  - Python
+    - SQLAlchemy
+    - データ分析系
+      - Pandas
+      - Numpy
+    - 機械学習系
+      - scikit-learn
+      - Keras
+  - Ruby
+    - Ruby on Rails
+  - JavaScript / Node.js
+    - AngularJS
+    - Sails.js
+    - jQuery
+  - Go
+    - GORM
 
-</div></details>
+- ツール
+  - クラウドコンピューティングサービス
+    - Amazon Web Services
+      - CodeBuild
+      - CodeCommit
+      - RDS
+      - VPC
+      - Lambda
+      - ElastiCache
+        - Redis
+    - Google Cloud Platform
+      - Compute Engine
+    - IDCF Cloud
+  - 仮想環境
+    - Docker
+    - Vagrant
+  - データ処理
+    - Embulk
+    - Re:dash
+  - その他
+    - Node-RED
+    - JupyterLab
+    - Slack
+    - GitHub
 
-<details><summary>フレームワーク/ライブラリ/モジュール</summary><div>
-
-- Python
-  - SQLAlchemy
-  - データ分析系
-    - Pandas
-    - Numpy
-  - 機械学習系
-    - scikit-learn
-    - Keras
-- Ruby
-  - Ruby on Rails
-- JavaScript / Node.js
-  - AngularJS
-  - Sails.js
-  - jQuery
-- Go
-  - GORM
-
-</div></details>
-
-<details><summary>ツール</summary><div>
-
-- クラウドコンピューティングサービス
-  - Amazon Web Services
-    - CodeBuild
-    - CodeCommit
-    - RDS
-    - VPC
-    - Lambda
-    - ElastiCache
-      - Redis
-  - Google Cloud Platform
-    - Compute Engine
-  - IDCF Cloud
-- 仮想環境
-  - Docker
-  - Vagrant
-- データ処理
-  - Embulk
-  - Re:dash
-- その他
-  - Node-RED
-  - JupyterLab
-  - Slack
-  - GitHub
-
-</div></details>
-
-<details><summary>自然言語</summary><div>
-
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - 言語、ライブラリ等のドキュメントを英語原文で読解
-
-</div></details>
+- 自然言語
+  - 日本語
+    - ネイティブ
+  - 英語
+    - かんたんな日常会話ができる
+    - 言語、ライブラリ等のドキュメントを英語原文で読解
 
 ## Job details
 
